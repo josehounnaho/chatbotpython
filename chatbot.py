@@ -35,7 +35,7 @@ def chatbot_assistant(question):
         return "Je ne peux pas répondre à cette question pour le moment. Essayez une autre question."
 
 def main():
-    st.title("Chatbot Assistant pour le Cours Python")
+    
 
     # Questions prédéfinies sous forme de boutons
     if st.button("Comment écrire un print en Python ?"):
